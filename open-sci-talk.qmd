@@ -1,0 +1,91 @@
+---
+title: "Making Sausage"
+subtitle: "How and why open source scientific software gets made -- and what keeps us from making more"
+author:
+  - name: "**Michael J Mahoney**"
+    orcid: 0000-0003-2402-304X
+    email: mjmahone@esf.edu
+    url: https://mm218.dev
+format: 
+  revealjs: 
+    standalone: true
+    center: true
+    slide-number: false
+    overview: true
+    width: 1280
+    height: 720
+    theme: [default, custom.scss]
+    footer: "Talk for ESIP Community Fellows -- October 2023"
+---
+
+## About Me
+
+::: columns
+::: {.column width="50%"}
+-   Mike Mahoney
+
+-   ESIP Community Fellow (IT&I, ML)
+
+-   PhD candidate in environmental science
+
+-   Research assistant, CAFRI
+
+-   These slides: [mm218.dev/esip2023](https://mm218.dev/esip2023)
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](me.jpeg)
+:::
+:::
+
+---
+
+> All users of the program have access to the source code of the program, and are allowed to redistribute, modify, and use the program as they see fit.
+
+---
+
+![](open-source-initiative.jpeg)
+
+---
+
+> "Given enough eyeballs, all bugs are shallow."
+>
+> -- Eric S. Raymond, _The Cathedral and the Bazaar_
+
+---
+
+> Mingzhai Sun: When you use [R], since it is written by so many authors, how do you know that the results are trustable?
+>
+> Bill Venables: The R engine [...] is pretty well uniformly excellent code but you have to take my word for that. Actually, you don't. The whole engine is open source so, if you wish, you can check every line of it. If people were out to push dodgy software, this is not the way they'd go about it.
+>
+> -- Mingzhai Sun and Bill Venables, _R-help (January 2004)_
+
+---
+
+> There’s nothing in the design that lets you do this, but then since you have the source there’s nothing on the planet to stop you doing this. The design is not a law :)
+>
+> —- Barry Rowlingson, _R-help (February 2004)_
+
+---
+
++ more hands to make more things
+
+---
+
+#. Most open-source scientific software are one-person projects
+
+#. Most open-source scientific software is in "the long tail" 
+
+#. Most open-source developers are mostly something else, professionally
+
+#. High rates of burnout
+
+#. Difficult to measure
+
+#. Difficult to include in other roles
+
+#. 
+
