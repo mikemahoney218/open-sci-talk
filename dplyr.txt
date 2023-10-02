@@ -1,0 +1,286 @@
+  2843	Romain François
+  2699	Hadley Wickham
+  1043	Kirill Müller
+   620	Lionel Henry
+   511	Davis Vaughan
+    37	Jim Hester
+    37	Mara Averick
+    30	lindbrook
+    25	Hiroaki Yutani
+    24	lionel-
+    21	Kevin Ushey
+    14	jennybc
+    13	Hannes Mühleisen
+    11	Ilari Scheinin
+    10	hannes
+     9	Mine Çetinkaya-Rundel
+     8	Jennifer (Jenny) Bryan
+     8	Sergey Goder
+     8	Sergio Oller
+     7	Sam
+     7	Stefan Fleck
+     6	Bill Denney
+     6	Ian Cook
+     6	Javier Luraschi
+     6	ijlyttle
+     5	Christophe Dervieux
+     5	Ian Lyttle
+     5	Mauro Lepore
+     5	Salim B
+     4	Eduardo Ariño de la Rubia
+     4	Michael Chirico
+     4	Mine Cetinkaya-Rundel
+     4	Nick Carchedi
+     4	Nicolas Coutin
+     4	Shinya Uryu
+     4	ZJ
+     4	coolbutuseless
+     4	leondutoit
+     4	yutannihilation
+     3	Aaron Schumacher
+     3	Alexey Stukalov
+     3	Arunkumar Srinivasan
+     3	Ben Bond-Lamberty
+     3	Brad Dixon
+     3	Brian Rice
+     3	Dean Attali
+     3	Eduardo Ibanez
+     3	Edwin de Jonge
+     3	Filipe Filardi
+     3	Greg Freedman Ellis
+     3	Harold Pimentel
+     3	Imanuel Costigan
+     3	Jay Hesselberth
+     3	Mark Dulhunty
+     3	Michael Kuhn
+     3	Susana Quartin
+     3	Victor Lei
+     3	earowang
+     3	elephantupthewrongtree
+     2	Anthony Damico
+     2	Austen Head
+     2	Avraham Adler
+     2	Ben Marwick
+     2	Brent Brewington
+     2	Christian Heinrich
+     2	Craig Citro
+     2	Daniel Gromer
+     2	Earo Wang
+     2	Ethan White
+     2	Forest Fang
+     2	Holger Brandl
+     2	JS
+     2	Jeffrey Arnold
+     2	Jenny Bryan
+     2	Jon Harmon
+     2	Karl Dunkle Werner
+     2	Ken Williams
+     2	Kevin Markham
+     2	Leon du Toit
+     2	Mark Sandan
+     2	Michael
+     2	Mutahi Wachira
+     2	Nick-Rivera
+     2	Patrick Kennedy
+     2	Sina Rueeger
+     2	Steve Haroz
+     2	Thomas Klebel
+     2	Tobias Rockel
+     2	Zachary Foster
+     2	huangs
+     2	joel23888
+     2	kevinushey
+     2	michaelweylandt
+     2	psychometrician
+     2	romainfrancois
+     2	shabbybanks
+     1	Aaron Wolen
+     1	Adam Davis
+     1	Alexandre Courtiol
+     1	Alison Hill
+     1	Alison Presmanes Hill
+     1	Andrew Collier
+     1	Andy Teucher
+     1	Anonymous@example.com
+     1	Ariel
+     1	Arthur Yip
+     1	Barret Schloerke
+     1	Ben Schneider
+     1	Binod Jung Bogati
+     1	Brian A. Danielak
+     1	CJ Yetman
+     1	Catherine Blatter
+     1	Chapman Siu
+     1	Christian Mongeau
+     1	Codetrainee
+     1	Colin Gillespie
+     1	Colin Rundel
+     1	Copepoda
+     1	Cui Xueqin
+     1	Dan Chaltiel
+     1	Daniel
+     1	Daniel Possenriede
+     1	Danielle Navarro
+     1	Danielle Quinn
+     1	Danielle Smalls
+     1	David
+     1	David Baniadam
+     1	David Kretch
+     1	David Lindelöf
+     1	David Robinson
+     1	Dirk Eddelbuettel
+     1	Dirk Schumacher
+     1	Dr. Connie Brett
+     1	Eduardo Blancas Reyes
+     1	Ellis Valentiner
+     1	Enrico Spinielli
+     1	Eric Stern
+     1	Florian Kohrt
+     1	Francis Barton
+     1	Frans van Dunné
+     1	Garrett Grolemund
+     1	Gerhard Nachtmann
+     1	Greg Rahn
+     1	Guangyu Zeng
+     1	Gustav W Delius
+     1	Hugo Gruson
+     1	Ian Carroll
+     1	Indrajeet Patil
+     1	Jack Hannah
+     1	Jack Norman
+     1	Jacob Peacock
+     1	Jake Russ
+     1	Jakob Jul Elben
+     1	James Goldie
+     1	Jane Wall
+     1	Jason Aizkalns
+     1	Jason Daniel Augustine Gilliland
+     1	Jason Houle
+     1	Jason Muhlenkamp
+     1	Jeffrey Pullin
+     1	Jen Ren
+     1	Jim Vine
+     1	Joe Cheng
+     1	JohannesNE
+     1	Jonathan Keane
+     1	Joran Elias
+     1	Joscha Legewie
+     1	Joschka Thurner
+     1	Josh Goldberg
+     1	Juan Sebastian Casallas
+     1	Justin Jent
+     1	Katrin Leinweber
+     1	Kirill Sevastyanenko
+     1	Laura Wiley
+     1	Lee Bunce
+     1	Lee Mendelowitz
+     1	Lluís Ramon
+     1	Lorenz Walthert
+     1	Love Hansson
+     1	Malcolm Perry
+     1	Marcelo Tonon
+     1	Maria Paula Caldas
+     1	Mark D
+     1	Mark Fairbanks
+     1	Markus Senn
+     1	Martin John Hadley
+     1	Matt Nield
+     1	Matt Steadman
+     1	Matthew J. Michalska-Smith
+     1	Matthew Lincoln
+     1	Maëlle Salmon
+     1	Megan Beckett
+     1	Michael Sumner
+     1	Michael Treadwell
+     1	Mike K Smith
+     1	MikeJohnPage
+     1	Mikko Marttila
+     1	Misha Balyasin
+     1	Nate
+     1	Neal Richardson
+     1	Nello Blaser
+     1	NelsonGon
+     1	Nhan Vu
+     1	Nic
+     1	Nicholas Horton
+     1	Nicholas Potter
+     1	Pablo Bernabeu
+     1	Patrick Barks
+     1	Paul R Staab
+     1	Paul Staab
+     1	Pedram Navid
+     1	Pedro Perez
+     1	Rebecca Janis
+     1	Riva Quiroga
+     1	Robert Krzyzanowski
+     1	Robin
+     1	Russell Pierce
+     1	Sam Albers
+     1	Sam Firke
+     1	Sara Carioscia
+     1	Sara Stoudt
+     1	Saras Windecker
+     1	Sebastian Lammers
+     1	Shane Piesik
+     1	Shannon Pileggi
+     1	Sharla Gelfand
+     1	Shyam Saladi
+     1	Simon Anders
+     1	Simon P. Couch
+     1	Stephanie Zimmer
+     1	Steve
+     1	Steven Das
+     1	Suthira
+     1	Sven E. Templer
+     1	TJ Mahr
+     1	Takahisa Hasegawa
+     1	Tim Carnus
+     1	Tobias Busch
+     1	Tobias Schieferdecker
+     1	Tom Faulhaber
+     1	Tomasz Kalinowski
+     1	Tony ElHabr
+     1	Tony Fischetti
+     1	Trym Nohr Fjørtoft
+     1	Umberto Fasci
+     1	Will Beasley
+     1	Wim van der Ham
+     1	Y. Yu
+     1	Yihui Xie
+     1	Zhuoer Dong
+     1	arcoutte
+     1	beansrowning
+     1	blaquans
+     1	chayajones
+     1	cwickham
+     1	davidkane9
+     1	delabj
+     1	dgromer
+     1	dpastoor
+     1	earcanal
+     1	echasnovski
+     1	eipi10
+     1	eitsupi
+     1	harrismcgehee
+     1	helix123
+     1	hoxo-m
+     1	jbao
+     1	jjchern
+     1	krterberg
+     1	laresbernardo
+     1	lehy-probayes
+     1	misterFrostee
+     1	mnfn
+     1	r2evans
+     1	rivizan
+     1	shea-parkes
+     1	shearerp
+     1	sixvable
+     1	suzan baert
+     1	szilard
+     1	takapai
+     1	teramonagi
+     1	tj mahr
+     1	tverbeke
+     1	wasdoff
+     1	zachcp

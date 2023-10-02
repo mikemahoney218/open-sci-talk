@@ -1,0 +1,17 @@
+   960	Maximilian Hesselbarth
+   365	Marco Sciaini
+   299	Jakub Nowosad
+    52	GitHub Actions
+    61	Sebastian Hanß
+     6	GitHub
+     3	unknown
+     2	DavZim
+     2	Guillermo Ponce
+     2	Unknown
+     2	kalab-oto
+     2	laurajanegraham
+     1	Darío Hereñú
+     1	Matt Strimas-Mackey
+     1	Matthias Grenié
+     1	bitbacchus
+     1	jsta
