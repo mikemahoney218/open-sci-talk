@@ -1,0 +1,17 @@
+   411	HannaMeyer
+    29	Hanna
+    19	Ludwigm6
+    13	carlesmila
+     5	JanLinnenbrink
+     3	Carles Milà
+     3	dependabot[bot]
+     3	gisma
+     2	Edzer Pebesma
+     2	jonathom
+     1	Chris Reudenbach
+     1	Darius Görgen
+     1	Hanna Meyer
+     1	Kendon Bell
+     1	Patrick Schratz
+     1	abdelkrim-bsr
+     1	pat-s

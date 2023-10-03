@@ -15,7 +15,7 @@ format:
     width: 1280
     height: 720
     theme: [default, custom.scss]
-    footer: "Talk for ESIP Community Fellows -- October 2023"
+    footer: "Talk for Open Science Cluster -- October 2023"
 ---
 
 
@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 -   Research assistant, CAFRI
 
--   These slides: [mm218.dev/esip2023](https://mm218.dev/esip2023)
+-   These slides: [mm218.dev/nasatops2023](https://mm218.dev/nasatops2023)
 :::
 
 ::: {.column width="10%"}
@@ -50,23 +50,24 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ---
 
+![](runi.png){.quarto-figure-center}
+
+---
+
 > All users of the program have access to the source code of the program, and are allowed to redistribute, modify, and use the program as they see fit.
 
----
-
-![](fragstats.png){.quarto-figure-center}
+# Open source is open
 
 ---
 
-![](lsm.png){.quarto-figure-center}
+![](open-source-initiative.jpeg){.quarto-figure-center}
+
+
+# Open source makes collaboration easier
 
 ---
 
-![](lsm_diffs.png){.quarto-figure-center}
-
----
-
-![](lsm_diffs_hl.png){.quarto-figure-center}
+![](spatialsample.png){.quarto-figure-center}
 
 ---
 
@@ -76,15 +77,63 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ---
 
-![](open-source-initiative.jpeg){.quarto-figure-center}
+![](me_cast.png){.quarto-figure-center}
 
-# Open Source is Lonely
+---
 
-## landscapemetrics
+![](d_cast.png){.quarto-figure-center}
+
+---
+
+![](rospr.png){.quarto-figure-center}
+
+# Open source is cumulative
+
+---
+
+![](cran_depend_network.png){.quarto-figure-center}
+
+::: {.footer}
+From https://github.com/schochastics/CRAN_collaboration
+:::
+
+---
+
+![](FeTw-yzWYAAPVxe.jpeg){.quarto-figure-center}
+
+::: {.footer}
+From https://github.com/schochastics/CRAN_collaboration
+:::
+
+---
+
+> Civilization advances by extending the number of important operations which we can perform without thinking about them.
+>
+> -- A N Whitehead
+
+# Open source aligns with the goals of science and scientists
+
+---
+
+![](nocodenopaper.png){.quarto-figure-center}
+
+::: {.footer}
+https://web.archive.org/web/20160322031314/https://simplystatistics.org/2013/01/23/statisticians-and-computer-scientists-if-there-is-no-code-there-is-no-paper/
+:::
+
+---
+
+> I'm not worried about being scooped, I'm worried about being ignored
+>
+> -- Magnus Nordborg
+
+# Open source is lonely
+
+## CAST
 
 ```{r}
 library(ggplot2)
-read.table("lsm.txt", sep = "\t") |> 
+read.table("cast.txt", sep = "\t") |> 
   dplyr::mutate(
     V2 = factor(V2, rev(V2))
   ) |> 
@@ -246,22 +295,40 @@ ninety |>
 
 ---
 
-![](sf.png){.quarto-figure-center}
+![](sf_proposal.png){.quarto-figure-center}
 
 ---
 
-![](sf_proposal.png){.quarto-figure-center}
+![](sf.png){.quarto-figure-center}
 
 # Community groups can help with burnout
 
 ---
 
-![](ropensci.png)
+![](ropensci.png){.quarto-figure-center}
 
 ---
 
-![](pyopensci.png)
+![](pyopensci.png){.quarto-figure-center}
 
 # Value software as a research product
 
 # Cite your software
+
+## Thank you!
+
+<br />
+
+#### Find me online:
+
+{{< fa globe >}} [mm218.dev](https://mm218.dev) 
+
+{{< fa brands github >}} @mikemahoney218 
+
+<i class="fab fa-mastodon"></i> [@MikeMahoney218@fosstodon.org](https://fosstodon.org/@MikeMahoney218)
+
+<i class="fa-solid fa-square"></i> [@mikemahoney218.com](https://bsky.app/profile/mikemahoney218.com)
+
+<br />
+
+Slides available at [mm218.dev/nasatops2023](https://mm218.dev/nasatops2023)
