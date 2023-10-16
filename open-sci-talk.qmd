@@ -218,6 +218,12 @@ read.table("pandas.txt", sep = "\t") |>
   coord_flip()
 ```
 
+---
+
+> Running a successful open source project is just Good Will Hunting in reverse, where you start out as a respected genius and end up being a janitor who gets into fights.
+>
+> -- Byrne Hobart
+
 # Open source is a long-tailed phenomenon
 
 ## All R Packages (n = 26,039)
